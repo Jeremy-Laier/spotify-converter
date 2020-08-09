@@ -1,0 +1,29 @@
+[debug] Packaging C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\spotify-converter_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	config
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\config
+[debug] 	config\ConfigFactory.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\config\ConfigFactory.class
+[debug] 	main$.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\main$.class
+[debug] 	main.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\main.class
+[debug] 	models
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models
+[debug] 	models\Album$.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Album$.class
+[debug] 	models\Album.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Album.class
+[debug] 	models\Artist$.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Artist$.class
+[debug] 	models\Artist.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Artist.class
+[debug] 	models\Runtime$.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Runtime$.class
+[debug] 	models\Runtime.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Runtime.class
+[debug] 	models\Song$.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Song$.class
+[debug] 	models\Song.class
+[debug] 	  C:\Users\Jerem\IdeaProjects\spotify-converter\target\scala-2.13\classes\models\Song.class
+[debug] Done packaging.
