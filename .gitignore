@@ -162,5 +162,5 @@ $RECYCLE.BIN/
 .DS_Store
 *.iml
 # End of https://www.toptal.com/developers/gitignore/api/scala,windows,intellij,java
-/target/
+target
 project
