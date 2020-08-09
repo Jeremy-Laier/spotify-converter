@@ -6,7 +6,7 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-.idea/**
+.idea
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -160,4 +160,6 @@ $RECYCLE.BIN/
 *.lnk
 
 target/
+.DS_Store
+*.iml
 # End of https://www.toptal.com/developers/gitignore/api/scala,windows,intellij,java
