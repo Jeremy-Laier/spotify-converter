@@ -159,7 +159,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-target/
 .DS_Store
 *.iml
 # End of https://www.toptal.com/developers/gitignore/api/scala,windows,intellij,java
+/target/
